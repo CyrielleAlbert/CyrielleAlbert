@@ -1,16 +1,13 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="50%"/>
+    <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="25%"/>
 </p>
 <h4 align="center"> Hi👋  </h4>
 <h4 align="center">Welcome to my Github! </h4>
 
 <p align="center"> I am 22 y.o woman working as a software engineer.</p>
-<br></br><br></br>
+<br></br>
 <h4> 👩‍💻 Here are some technologies I use:
 <br></br>
-<img src="https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif " width="50%"/>
-<br></br>
-
 <li>React: for Web application </li>
 <li>React Native: for Mobile application </li>
 <li>Python: for Data Sciences & Telegram</li>
@@ -20,17 +17,17 @@
 
 <h4>🙋‍♀️ Want to get in touch?<br> 
 <br></br>
-
- <img src="https://media.giphy.com/media/Vhd9s5HAucP4a4BDbP/giphy.gif" width="50%"/>
- <br></br>
-
 <li> Intragram: <a href="instagram.com/al_rielle/">@al_rielle</a></li>
 <li>Twitter: <a href="https://twitter.com/Cyri_official">@Cyri_official</a></li>
 <li>Linkedin: <a href="https://linkedin.com/in/cyriellealbert">Cyrielle Albert </a></li>
 </h4>
 
  <br></br>
-  <br></br>
+
+<p align="center">
+
+ <img src="https://media.giphy.com/media/Vhd9s5HAucP4a4BDbP/giphy.gif" width="50%"/>
+ </p>
 <h4 align="center">Want to checkout my website? <a href="https://cyriellealbert.fr"> cyriellealbert.fr</a></h4>
 
 <h4 align="center">↓ Checkout my repo ↓</h4>

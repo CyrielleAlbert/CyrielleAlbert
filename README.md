@@ -18,7 +18,7 @@
 <h4>🙋‍♀️ Want to get in touch?<br> 
 <br></br>
 <li> Intragram: <a href="instagram.com/al_rielle/">@al_rielle</a></li>
-<li>Twitter: <a href="https://twitter.com/Cyri_official">@Cyri_official</a></li>
+<li>Twitter: <a href="https://twitter.com/cyrielle_al">@Cyri_official</a></li>
 <li>Linkedin: <a href="https://linkedin.com/in/cyriellealbert">Cyrielle Albert </a></li>
 </h4>
 

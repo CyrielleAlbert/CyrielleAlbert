@@ -4,7 +4,7 @@
 <h4 align="center"> Hi👋  </h4>
 <h4 align="center">Welcome to my Github! </h4>
 
-<p align="center"> I am 25 y.o woman working as a frontend engineer at Telia.</p>
+<p align="center"> I am 26 y.o woman working as a fullstack engineer at Telia.</p>
 <br></br>
 <h4> 👩‍💻 Here are some technologies I use:
 <br></br>
@@ -12,6 +12,7 @@
 <li>React Native: for Mobile application </li>
 <li>Python: for Data Sciences & Telegram</li>
 <li>NodeJS: for Server & Data Sciences</li>
+<li>Kotlin: for Server/Microservices</li>
 </h4>
 <br></br>
 

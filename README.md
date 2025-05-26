@@ -4,7 +4,7 @@
 <h4 align="center"> Hi👋  </h4>
 <h4 align="center">Welcome to my Github! </h4>
 
-<p align="center"> I am 26 y.o woman working as a Software engineer at Telenor</p>
+<p align="center"> I am 27 y.o woman working as a Software engineer at Telenor</p>
 <br></br>
 <h4> 👩‍💻 Here are some technologies I use:
 <br></br>

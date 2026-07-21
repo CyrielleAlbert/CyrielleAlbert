@@ -29,6 +29,5 @@
 
  <img src="https://media.giphy.com/media/Vhd9s5HAucP4a4BDbP/giphy.gif" width="50%"/>
  </p>
-<h4 align="center">Want to checkout my website? <a href="https://cyriellealbert.fr"> cyriellealbert.fr</a></h4>
 
 <h4 align="center">↓ Checkout my repo ↓</h4>
